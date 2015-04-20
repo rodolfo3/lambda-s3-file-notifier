@@ -1,0 +1,16 @@
+{
+  "name": "lambda-s3-file-notifier",
+  "version": "0.0.1",
+  "description": "Notify (using SES) a new file in S3",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.1.24",
+    "q": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
